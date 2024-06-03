@@ -6,3 +6,4 @@ del C:\Users\Public\Desktop\Winrar.exe
 del /f "C:\Users\Public\Desktop\Microsoft Edge.lnk"
 del /f "C:\Users\Public\Desktop\Firefox.lnk"
 del /f "C:\Users\Public\Desktop\Unity Hub.lnk"
+del /f "C:\Users\Public\Desktop\R 4.4.0.lnk"
